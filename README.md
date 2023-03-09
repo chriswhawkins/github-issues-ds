@@ -1,3 +1,5 @@
+Initial
+
 # SwyxKit
 
 A lightly opinionated starter for [SvelteKit](https://kit.svelte.dev/) blogs:
