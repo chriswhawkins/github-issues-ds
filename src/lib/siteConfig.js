@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://chriswhawkins.netlify.app';
+export const SITE_URL = 'https://lambent-speculoos-07a5a6.netlify.app/';
 export const APPROVED_POSTERS_GH_USERNAME = ['chriswhawkins'];
 export const GH_USER_REPO = 'chriswhawkins/github-issues-ds'; // used for pulling github issues and offering comments
 export const SITE_TITLE = 'Design System TestKit';
